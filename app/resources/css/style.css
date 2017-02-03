@@ -111,7 +111,7 @@ ul.todo {
 	float:left;
 }
 
-ul.todo li {
+ul.todo li:after {
 	width:100%;
 	float:left;
 	font-size:14px;
